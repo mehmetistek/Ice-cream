@@ -65,3 +65,6 @@ fonksiyonları test etmek için kullanılır.Bu sayede gerçek sistem bileşenle
 -Fonksiyonlara gönderilen parametreleri kontrol edilebilir.
 
 # 100% Test Coverage# Ice-cream
+
+Screen Gif
+![Image](https://github.com/user-attachments/assets/e1031cc4-0bcf-415e-91b6-fa448ee75310)
